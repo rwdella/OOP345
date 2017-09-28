@@ -1,0 +1,8 @@
+﻿  w1.cpp
+  Process.cpp
+  CString.cpp
+d:\2017-2018\oop345\w1_regiod\w1_regiod\cstring.cpp(7): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(343): note: see declaration of 'strncpy'
+  Generating Code...
+  w1_RegioD.vcxproj -> D:\2017-2018\OOP345\w1_RegioD\Debug\w1_RegioD.exe
+  w1_RegioD.vcxproj -> D:\2017-2018\OOP345\w1_RegioD\Debug\w1_RegioD.pdb (Partial PDB)
